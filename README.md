@@ -136,7 +136,7 @@ attractEveryone();
 <p align="center"><a  href="https://www.buymeacoffee.com/allydiah" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a><br><b>Buy me A coffee</b></p>
 
 ---
-<a href="https://visitcount.itsvg.in">
+<a href="https://github.com/maintaintechtz">
   <img src="https://visitcount.itsvg.in/api?id=maintaintechtz&label=Profile%20Views&pretty=false" />
 </a>
 <!--
