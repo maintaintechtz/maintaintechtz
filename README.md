@@ -90,24 +90,36 @@
 
 ``` javascript
 function attractEveryone() {
-  const audience = ['customers', 'recruiters', 'company_owners', 'students', 'tech_enthusiasts'];
-  
-  for (const group of audience) {
-    if (group === 'customers') {
-      console.log("🌟 Discover amazing solutions tailored for you! 🌟");
-    } else if (group === 'recruiters') {
-      console.log("🚀 Unlock talent that transforms visions into reality! 🚀");
-    } else if (group === 'company_owners') {
-      console.log("💼 Elevate your business with cutting-edge innovation! 💼");
-    } else if (group === 'students') {
-      console.log("🎓 Empowering the next generation of tech leaders! 🎓");
-    } else if (group === 'tech_enthusiasts') {
-      console.log("⚡️ Dive into the world of endless possibilities! ⚡️");
-    }
+  const userInput = prompt("Enter your target audience: ");
+  const lowerCaseInput = userInput.toLowerCase();
+
+  switch (lowerCaseInput) {
+    case 'customers':
+      alert("🌟 Discover amazing solutions tailored for you! 🌟");
+      break;
+    case 'recruiters':
+      alert("🚀 Unlock talent that transforms visions into reality! 🚀");
+      break;
+    case 'company_owners':
+      alert("💼 Elevate your business with cutting-edge innovation! 💼");
+      break;
+    case 'students':
+      alert("🎓 Empowering the next generation of tech leaders! 🎓");
+      break;
+    case 'tech_enthusiasts':
+      alert("⚡️ Dive into the world of endless possibilities! ⚡️");
+      break;
+    default:
+      alert("❌ Invalid audience. Please enter one of the following: customers, recruiters, company_owners, students, tech_enthusiasts");
+      // Prompt the user again for a valid input
+      attractEveryone();
+      return; // Exit the function to avoid displaying the default message again
   }
 }
 
+// Start the process by calling the function
 attractEveryone();
+
 
 // - Ally Diah
 ```
