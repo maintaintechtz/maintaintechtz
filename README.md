@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ally Diah</h1>
+<h6 align="center"> Maintaintechtz  </br></h6>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maintaintechtz&label=Profile%20views&color=0e75b6&style=flat" alt="maintaintechtz" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maintaintechtz&label=Profile%20views&color=0e75b6&style=flat" alt="maintaintechtz" /> </p> <a href="https://www.buymeacoffee.com/allydiah" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maintaintechtz" alt="maintaintechtz" /></a> </p>
 
@@ -16,6 +18,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/allydiah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ally diah" height="30" width="40" /></a>
 <a href="https://instagram.com/ally_diah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ally_diah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRQEaWXyhvLlrLUJFRRDtHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ally_diah" height="30" width="40" /></a
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
