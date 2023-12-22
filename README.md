@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maintaintechtz&label=Profile%20views&color=0e75b6&style=flat" alt="maintaintechtz" /> </p> <a href="https://www.buymeacoffee.com/allydiah" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maintaintechtz&label=Profile%20views&color=0e75b6&style=flat" alt="maintaintechtz" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maintaintechtz" alt="maintaintechtz" /></a> </p>
 
@@ -130,7 +130,10 @@ attractEveryone();
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maintaintechtz&" alt="maintaintechtz" /></p>
 
+
+
 ### Thanks for Visiting my GitHub Profile!
+<p align="center"><a  href="https://www.buymeacoffee.com/allydiah" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a><br><b>Buy me A coffee</b></p>
 
 ---
 <!--
